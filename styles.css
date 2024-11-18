@@ -1,0 +1,100 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  /* Container Styling */
+  .container {
+    width: 100%;
+    max-width: 600px;
+    background-color: #222; /* Dark background for the form container */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Heading */
+  h1 {
+    color: #3498db; /* Light blue color for heading */
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  /* Input Field Styling */
+  .input-field {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .input-field label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .input-field input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #3498db;
+    border-radius: 4px;
+    background-color: #333; /* Darker input background */
+    color: white; /* White text inside the inputs */
+  }
+  
+  .input-field input:focus {
+    border-color: #2980b9;
+    outline: none;
+    transition: border-color 0.3s ease;
+  }
+  
+  /* Multiple-Choice Styling */
+  .question {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .question label {
+    font-weight: bold;
+  }
+  
+  .options {
+    margin: 5px 0;
+  }
+  
+  .options input {
+    margin-right: 10px;
+  }
+  
+  /* Submit Button Styling */
+  .submit-btn button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-btn button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 15px;
+      width: 90%;
+    }
+  }
+  
+  
