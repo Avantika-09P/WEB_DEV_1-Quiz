@@ -58,30 +58,7 @@ Here's what the form looks like:
 
 Feel free to fork this repository and submit pull requests. If you'd like to contribute, please ensure that your changes are well-tested and follow the code style used in this repository. 🛠️
 
-## 📜 License
 
-This project is open-source and available under the **MIT License**. See the MIT License
-
-Copyright (c) [2024] [Avantika Padhi]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
-OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
- file for more details. 🆓
 
 ## 📬 Contact
 
@@ -90,9 +67,3 @@ If you have any questions or suggestions, feel free to contact me at:
 - Email: [your-email@example.com](mailto:your-email@example.com) 📧
 - GitHub: [@your-username](https://github.com/your-username) 👨‍💻
 ```
-
-### Key Updates:
-- **Emojis** have been added to make the sections visually appealing and easy to follow. For example, 📥 for installation, 📝 for features, and 📸 for screenshots.
-- **Bullet Points** are used for listing features, technologies, and steps to enhance readability.
-  
-Feel free to replace placeholders like `your-email@example.com` and `path-to-screenshot.jpg` with actual information or links. Once you upload this to your GitHub repository, it will make your README more engaging and informative for users and contributors!
